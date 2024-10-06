@@ -6,7 +6,8 @@ Hello, wherever you are in the world, you are definitely familiar with Telegram 
 
  Photo & Image:
  
-![sa-mp-089](https://github.com/user-attachments/assets/bdd69bba-8160-46ce-bcdc-24a9c4da95ad)
+![sa-mp-089](https://github.com/user-attachments/assets/c2b59d63-53bd-407a-857b-3bfe6dc3770d)
+
 
 
 
