@@ -1,18 +1,3 @@
-Hello, wherever you are in the world, you are definitely familiar with Telegram and its mini-games, one of which is Hamster Kabemet, and today I put this text draw (system) on the Github page. Thank you for following and supporting it to make it More projects the better
-
-سلام شما در هر جایی این جهان باشید قطعا با تلگرام و مینی گیم های آن اشنایی دارید که یکی از انها همستر کابمت میباشد و امروز بنده این تکست دراو(سیستم) را در صفحه گیت هاب قرار دادم ممنون میشم فالو کنید و حمایت کنید جهت ساخت پروژه های بیشتر بهتر 
-
-Здравствуйте, где бы вы ни находились в этом мире, вы наверняка знакомы с Telegram и его мини-играми, одна из которых — Hamster Kabemet, и сегодня я разместил этот текстовый рисунок (систему) на странице Github. Спасибо, что подписались и поддержали его. Чем больше проектов, тем лучше.
-
- Photo & Image:
- 
-![sa-mp-089](https://github.com/user-attachments/assets/bdd69bba-8160-46ce-bcdc-24a9c4da95ad)
-
-
-
-DOWNLOAD LINK:
-[hamster.zip](https://github.com/user-attachments/files/17269614/hamster.zip)
-
 
 ```
 `
